@@ -19,7 +19,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            2513 Commits
+                            2516 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -120,7 +120,7 @@
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
                     </svg>
-                    36 Languages
+                    19 Languages
                 </h2>
             </section>
             <section class="column">
@@ -130,14 +130,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="403.84542329234216" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="403.84542329234216" y="0" width="22.906094290401658" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="426.7515175827439" y="0" width="12.04937714636527" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="438.80089472910913" y="0" width="6.428888361876346" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="445.22978309098545" y="0" width="5.656441336289752" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="450.88622442727524" y="0" width="4.350707473694928" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="455.23693190097015" y="0" width="3.1307325061133118" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="458.3676644070835" y="0" width="1.6323355929165448" height="8" fill="#db5855"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="403.8304052711216" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="403.8304052711216" y="0" width="22.90524246891182" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="426.7356477400334" y="0" width="12.048929059569575" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="438.78457679960303" y="0" width="6.428649287279297" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="445.2132260868823" y="0" width="5.6562309871038465" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="450.86945707398615" y="0" width="4.367651953809407" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="455.2371090277955" y="0" width="3.130616081846746" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="458.36772510964227" y="0" width="1.6322748903576954" height="8" fill="#db5855"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
