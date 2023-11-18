@@ -19,7 +19,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            8095 Commits
+                            8096 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -130,14 +130,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="340.9231481036644" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="340.9231481036644" y="0" width="45.19317210752169" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="386.1163202111861" y="0" width="32.43149562302464" height="8" fill="#cb171e"/>
-                    <rect mask="url(#languages-bar)" x="418.5478158342108" y="0" width="18.123118699373343" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="436.6709345335841" y="0" width="9.73288786990029" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="446.4038224034844" y="0" width="5.7078456012318926" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="452.11166800471625" y="0" width="5.086485081663472" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="457.1981530863797" y="0" width="2.801846913620264" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="340.94414343368834" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="340.94414343368834" y="0" width="45.18520376146522" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="386.12934719515357" y="0" width="32.425777383560536" height="8" fill="#cb171e"/>
+                    <rect mask="url(#languages-bar)" x="418.55512457871407" y="0" width="18.11992327681979" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="436.6750478555339" y="0" width="9.731171791672992" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="446.40621964720685" y="0" width="5.706839208299808" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="452.11305885550667" y="0" width="5.085588245450132" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="457.19864710095675" y="0" width="2.801352899043198" height="8" fill="#f34b7d"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
